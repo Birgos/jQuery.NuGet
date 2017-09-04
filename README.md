@@ -1,3 +1,5 @@
+# Example Repository to show how a repository for maintaining the appropriate NuGet package could look like
+
 # jQuery.NuGet
 NuGet Package for jQuery
 
