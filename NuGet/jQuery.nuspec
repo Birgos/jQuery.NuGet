@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>jQuery</id>
+    <version>3.2.1</version>
+    <title>jQuery</title>
+    <authors>jQuery Foundation, Inc.</authors>
+    <owners>jQuery Foundation, Inc.</owners>
+    <licenseUrl>http://jquery.org/license</licenseUrl>
+    <projectUrl>http://jquery.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>jQuery is a new kind of JavaScript Library.
+        jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.
+        For information on how to get started and how to use jQuery, please see [jQuery's documentation](http://api.jquery.com/). For source files and issues, please visit the [jQuery repo](https://github.com/jquery/jquery).
+		If upgrading, please see the [blog post for 3.2.1](https://blog.jquery.com/2017/03/20/jquery-3-2-1-now-available/). This includes notable differences from the previous version and a more readable changelog.
+		
+		NOTE: This package is maintained on behalf of the library owners by the NuGet Package project at https://www.nuget.org/packages/jQuery/.</description>
+    <language>en-US</language>
+    <tags>jQuery</tags>
+  </metadata>
+</package>
